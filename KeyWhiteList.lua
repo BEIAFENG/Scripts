@@ -1,3 +1,4 @@
 whitelist = {
-	["BEICFENG"] = true
+	["BEICFENG"] = true,
+	["wyp114514"] = true
 }
