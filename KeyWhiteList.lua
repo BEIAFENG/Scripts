@@ -1,5 +1,6 @@
 whitelist = {
 	["BEICFENG"] = true,
 	-- 测试人员
-	["hhhhwsgr"] = true
+	["hhhhwsgr"] = true,
+	["huhuhuhl84"] = true
 }
