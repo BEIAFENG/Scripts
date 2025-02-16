@@ -4,5 +4,6 @@ whitelist = {
 	-- 测试人员
 	["hhhhwsgr"] = true,
 	["huhuhuhl84"] = true,
-	["sishsjjshj"] = true
+	["sishsjjshj"] = true,
+	["ifioood"] = true
 }
