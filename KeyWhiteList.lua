@@ -5,5 +5,6 @@ whitelist = {
 	["hhhhwsgr"] = true,
 	["huhuhuhl84"] = true,
 	["sishsjjshj"] = true,
-	["ifioood"] = true
+	["ifioood"] = true,
+	["mianmian174"] = true
 }
